@@ -1,6 +1,6 @@
 <?php
-echo"ola"
-echo"Mazito"
+echo "ola"
+echo "Mazito"
 
 
 ?>
