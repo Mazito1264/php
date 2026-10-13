@@ -11,6 +11,7 @@ public function __construct ($nome, $idade) {
 public function apresentar () {
 echo "Nome: ".this->nome. "<br>";
 echo "Idade: ".this->idade. "anos <br>";
+
 }
 
 
@@ -27,3 +28,4 @@ $pessoa2->apresentar ();
 
 
 ?>
+
